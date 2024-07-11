@@ -1,0 +1,2 @@
+# No external dependencies required for time and datetime modules
+# requests==2.26.0
